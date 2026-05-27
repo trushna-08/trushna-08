@@ -1,18 +1,48 @@
+<p align dark theme.
+- **Visual:** Modern, hacker/aesthetic, with a big header image and clean separation using clear section blocks.
+
 ---
 
+**Image 9:**  
+- **Aesthetic:** Light-themed GitHub profile README—very clean, a bit playful/anime-inspired.
+- **Header:** “Namaste="center">
+  <img src="https://your-image-host.com 🙏 I’m Joshua Thadi” below a stylized cityscape banner/mybanner.png" alt="Trushna Agrawal Banner" width="600"/>
+</p>
+
 <h1 align="center">
-  Hi there 👋 I'm <span style="color:#00bfae">Trushna Agrawal</span>
-</h1>
+  Hi there, I'm Tr with pixel art.
+- **Summary:** Brief intro followedushna Agrawal <img src="https://github.com/blackcater by an “About Me” section, including interests, ongoing/blackcater/raw/main/images/Hi.gif" width="28"/>
+</ work, and focus areas, with icons for email/Linkedh1>
 
 <p align="center">
-  <b>Java Full Stack Developer · DSA Enthusiast · Lifelong Learner</b>
-  <br>
-  <i>Invent &bull; Code &bull; Repeat</i>
+  <b>Java Full Stack · DSAIn.
+- **Tech Stack:** Two blocks:
+  - **Languages & Tools:** Multiple colorful icons with a grid style Enthusiast · Open Source · 2026 Grad</b><br>
+  <i.
+  - **Tech Stack Row:** Badges/chips for languages>Invent &bull; Code &bull; Repeat</i>
 </p>
 
 ---
+``, frameworks, tools.
+- **“Support Me”**: “Buy me a`
+**Tip:**  
+- Upload your image to GitHub (in your coffee” button.
+- **Pinned Repos:** Showcases best work at the bottom.
+- **Visual:** Artistic, warm, and welcoming, with strong branding and clear organization profile repo) or [imgur.com](https://imgur.com/upload.
 
 ---
+
+### Summary of Design Elements
+- Both profiles use a prominent personal greeting/header—and a large, eye-catching banner.
+- Well-separated, icon/visual-heavy tech stack sections.
+- “About Me”/summary blocks give a brief but clear intro.
+- Unique, memorable visuals (pixel art, hacker theme).
+- External badges/buttons for portfolio, LinkedIn, support.
+
+---
+
+**Would you like help making your own README header/banner**
+
 
 ## 🟢 Developer Dashboard
 
