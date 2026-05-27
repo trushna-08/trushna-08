@@ -59,23 +59,4 @@
 </p>
 
 ---
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trushna08&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trushna08&theme=tokyonight" alt="GitHub streak"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trushna08&theme=tokyonight" alt="Profile summary"/>
-</p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trushna08&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trushna08&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
