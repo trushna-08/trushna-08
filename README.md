@@ -7,11 +7,32 @@
 </p>
 ---
 
-# 🟢 Developer Dashboard
-
-💻 Currently Working On: Full Stack Projects  
-📚 Learning: Spring Boot + React  
-🔥 Daily Goal: Solve DSA Problems  
-🚀 2026 Goal: Become Java Full Stack Developer  
-
 ---
+
+<h2>
+  <img src="https://em-content.zobj.net/thumbs/120/google/350/green-circle_1f7e2.png" width="30" style="vertical-align:middle;"/> 
+  <span style="font-size:1.6em; vertical-align:middle;"><b>Developer Dashboard</b></span>
+</h2>
+
+<hr/>
+
+<table>
+  <tr>
+    <td width="32">🖥️</td>
+    <td><b>Currently Working On:</b> <span style="color:#2196f3;">Full Stack Projects</span></td>
+  </tr>
+  <tr>
+    <td width="32">📚</td>
+    <td><b>Learning:</b> <span style="color:#673ab7;">Spring Boot</span> + <span style="color:#43a047;">React</span></td>
+  </tr>
+  <tr>
+    <td width="32">🔥</td>
+    <td><b>Daily Goal:</b> <span style="color:#FF9800;">Solve DSA Problems</span></td>
+  </tr>
+  <tr>
+    <td width="32">🚀</td>
+    <td><b>2026 Goal:</b> <span style="color:#E91E63;">Become Java Full Stack Developer</span></td>
+  </tr>
+</table>
+
+<hr/>
