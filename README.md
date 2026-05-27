@@ -1,27 +1,19 @@
-<p align dark theme.
-- **Visual:** Modern, hacker/aesthetic, with a big header image and clean separation using clear section blocks.
-
----
-
-**Image 9:**  
-- **Aesthetic:** Light-themed GitHub profile README—very clean, a bit playful/anime-inspired.
-- **Header:** “Namaste="center">
-  <img src="https://your-image-host.com 🙏 I’m Joshua Thadi” below a stylized cityscape banner/mybanner.png" alt="Trushna Agrawal Banner" width="600"/>
-</p>
-
-<h1 align="center">
-  Hi there, I'm Tr with pixel art.
-- **Summary:** Brief intro followedushna Agrawal <img src="https://github.com/blackcater by an “About Me” section, including interests, ongoing/blackcater/raw/main/images/Hi.gif" width="28"/>
-</ work, and focus areas, with icons for email/Linkedh1>
-
+<!-- Custom SVG Banner Start -->
 <p align="center">
-  <b>Java Full Stack · DSAIn.
-- **Tech Stack:** Two blocks:
-  - **Languages & Tools:** Multiple colorful icons with a grid style Enthusiast · Open Source · 2026 Grad</b><br>
-  <i.
-  - **Tech Stack Row:** Badges/chips for languages>Invent &bull; Code &bull; Repeat</i>
+  <svg width="100%" height="180">
+    <defs>
+      <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#00F7FF" />
+        <stop offset="70%" stop-color="#68EDC6" />
+        <stop offset="100%" stop-color="#FF3CAC" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="180" fill="url(#grad)" rx="24"/>
+    <text x="50%" y="45%" text-anchor="middle" fill="#232323" font-size="38" font-family="Segoe UI, sans-serif" font-weight="bold">Trushna Agrawal</text>
+    <text x="50%" y="70%" text-anchor="middle" fill="#26376d" font-size="22" font-family="Segoe UI, sans-serif">Java Full Stack Developer • 2026 Grad</text>
+  </svg>
 </p>
-
+<!-- Custom SVG Banner End -->
 ---
 ``, frameworks, tools.
 - **“Support Me”**: “Buy me a`
