@@ -1,40 +1,26 @@
-<!-- Custom SVG Banner Start -->
 <p align="center">
-  <svg width="100%" height="180">
-    <defs>
-      <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#00F7FF" />
-        <stop offset="70%" stop-color="#68EDC6" />
-        <stop offset="100%" stop-color="#FF3CAC" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="180" fill="url(#grad)" rx="24"/>
-    <text x="50%" y="45%" text-anchor="middle" fill="#232323" font-size="38" font-family="Segoe UI, sans-serif" font-weight="bold">Trushna Agrawal</text>
-    <text x="50%" y="70%" text-anchor="middle" fill="#26376d" font-size="22" font-family="Segoe UI, sans-serif">Java Full Stack Developer • 2026 Grad</text>
-  </svg>
+  <img src="https://readme-jet.vercel.app/api?title=Trushna%20Agrawal&subtitle=Java%20Full%20Stack%20Developer%20%7C%202026%20Grad&emoji=💻&font=Fira+Code&color=60d4b8,659cf7,c471ed,c8cf41&center=true" alt="Trushna Agrawal Animated Banner" width="800">
 </p>
-<!-- Custom SVG Banner End -->
----
-``, frameworks, tools.
-- **“Support Me”**: “Buy me a`
-**Tip:**  
-- Upload your image to GitHub (in your coffee” button.
-- **Pinned Repos:** Showcases best work at the bottom.
-- **Visual:** Artistic, warm, and welcoming, with strong branding and clear organization profile repo) or [imgur.com](https://imgur.com/upload.
+
+<h1 align="center">Hi there, I'm <span style="color:#1bb7a6;">Trushna Agrawal</span> 👋</h1>
+
+<p align="center">
+  <b>Java Full Stack Developer · DSA & Backend Enthusiast · 2026 Grad</b>
+  <br>
+  <i>Invent &bull; Code &bull; Repeat</i>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/trushna08/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/trushna-agrawal-41aa2b293/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:trushnaagrawal8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/trushna-08" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
 ---
-
-### Summary of Design Elements
-- Both profiles use a prominent personal greeting/header—and a large, eye-catching banner.
-- Well-separated, icon/visual-heavy tech stack sections.
-- “About Me”/summary blocks give a brief but clear intro.
-- Unique, memorable visuals (pixel art, hacker theme).
-- External badges/buttons for portfolio, LinkedIn, support.
-
----
-
-**Would you like help making your own README header/banner**
-
 
 ## 🟢 Developer Dashboard
 
@@ -102,14 +88,16 @@
 
 ## 🏆 Certifications
 
-- [**Introduction to SQL** — SimpliLearn SkillUp](https://www.simplilearn.com/skillup-certificates/your-certificate-url-here)  
+- [**Introduction to SQL** — SimpliLearn SkillUp](https://simpli-web.app.link/e/ljTca1y9t3b)  
   <sub>Issued: 26th May 2026 • Certificate Code: 10270832</sub>
+
+- [**Introduction to Front End Development** — SimpliLearn SkillUp](https://simpli-web.app.link/e/QpAMX7JUr3b)
+  <sub>Issued: SimpliLearn SkillUp</sub>
 
 - [**Java (Basic)** — HackerRank](https://www.hackerrank.com/certificates/4976eddc8461)  
   <sub>Certificate of Accomplishment</sub>
 
 ---
-
 ## ✨ Quote
 
 > “Turning ideas into reality, one line of code at a time.”
