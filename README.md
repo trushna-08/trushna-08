@@ -1,12 +1,16 @@
-<!-- ===================== UNIQUE MODERN HEADER ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2000&pause=600&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=70&lines=Hey there%2C+I'm+Trushna+Agrawal!;Java+Full+Stack+Developer+%7C+DSA+Enthusiast+%F0%9F%92%AA;Invent%2C+Code%2C+Repeat+%E2%9A%A1%EF%B8%8F"
-       alt="Intro Typing Banner" />
-</p>
+---
+
+<h1 align="center">
+  Hi there 👋 I'm <span style="color:#00bfae">Trushna Agrawal</span>
+</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff5af7,100:f3fc6c&text=Welcome%20To%20My%20Dev%20World!&fontSize=35&fontAlignY=40&animation=twinkling" alt="Wavy Color Capsule Banner"/>
+  <b>Java Full Stack Developer · DSA Enthusiast · Lifelong Learner</b>
+  <br>
+  <i>Invent &bull; Code &bull; Repeat</i>
 </p>
+
+---
 
 ---
 
