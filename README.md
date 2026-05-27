@@ -1,9 +1,11 @@
+<!-- ===================== UNIQUE MODERN HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:68EDC6,100:FF3CAC&height=120&text=Trushna%20Agrawal&fontSize=45&fontAlignY=35&animation=twinkling"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2000&pause=600&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=70&lines=Hey there%2C+I'm+Trushna+Agrawal!;Java+Full+Stack+Developer+%7C+DSA+Enthusiast+%F0%9F%92%AA;Invent%2C+Code%2C+Repeat+%E2%9A%A1%EF%B8%8F"
+       alt="Intro Typing Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2200&pause=700&color=FF3CAC&background=00000000&center=true&width=920&lines=Java+Full+Stack+Developer;DSA+Problem+Solver;SpringBoot+%7C+React+Learner;Building+Real-World+Projects+Everyday!"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff5af7,100:f3fc6c&text=Welcome%20To%20My%20Dev%20World!&fontSize=35&fontAlignY=40&animation=twinkling" alt="Wavy Color Capsule Banner"/>
 </p>
 
 ---
@@ -74,36 +76,30 @@
 
 ## 🏆 Certifications
 
-- **Introduction to SQL** — SimpliLearn SkillUp  
-  <sub>Certificate Code: 10270832 | Issued: 26th May 2026</sub>
+<div align="center">
 
-- **Java (Basic)** — HackerRank  
-  <sub>Certificate of Accomplishment</sub>
+<!-- Introduction to SQL Certificate -->
+<a href="https://cert-link-for-sql-here.com" target="_blank">
+  <img src="https://i.imgur.com/1ukCY2u.png" alt="SQL Certificate" width="360"/>
+</a>
+<br>
+<b>Introduction to SQL — SimpliLearn SkillUp</b><br>
+<sub>Issued: 26th May 2026 • Certificate Code: 10270832</sub>
+<br><br>
 
----
-
-## 📊 GitHub Stats & Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trushna-08&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trushna-08&theme=tokyonight" alt="GitHub streak"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trushna-08&theme=tokyonight" alt="Profile summary"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trushna-08&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trushna-08&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
+<!-- Java (Basic) Certificate -->
+<a href="https://www.hackerrank.com/certificates/4976eddc8461" target="_blank">
+  <img src="https://i.imgur.com/fxYI4hk.png" alt="HackerRank Java Basic" width="360"/>
+</a>
+<br>
+<b>Java (Basic) — HackerRank</b><br>
+<sub>Certificate of Accomplishment</sub>
+</div>
 
 ---
 
 ## ✨ Quote
 
-> "Consistency beats motivation. Build • Learn • Code • Repeat."
+> “Turning ideas into reality, one line of code at a time.”
 
 ---
