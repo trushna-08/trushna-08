@@ -59,4 +59,14 @@
 </p>
 
 ---
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description | Links |
+|---------|-----------|-------------|-------|
+| **EduTrack — Classroom & Student Management Portal** | Java, Spring Boot, MongoDB, REST APIs, Tomcat | Full-stack system to manage student records, batches, and classroom data with REST APIs and NoSQL database. | [GitHub](https://github.com/trushna-08/Edu-Track) |
+| **Hospital Management System** | Java, MySQL, JDBC | Console-based application for patient and doctor management, registration, and appointments with MySQL database. | [GitHub](https://github.com/trushna-08/Hospital_Management_System) |
+
+---
 
