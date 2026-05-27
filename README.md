@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://readme-jet.vercel.app/api?title=Trushna%20Agrawal&subtitle=Java%20Full%20Stack%20Developer%20%7C%202026%20Grad&emoji=💻&font=Fira+Code&color=60d4b8,659cf7,c471ed,c8cf41&center=true" alt="Trushna Agrawal Animated Banner" width="800">
+  <img src="https://i.pinimg.com/736x/39/18/67/391867b1e17f07cf2b12b278d24e8484.jpg" width="900" alt="Trushna Agrawal Pixel Art Banner"/>
 </p>
 
-<h1 align="center">Hi there, I'm <span style="color:#1bb7a6;">Trushna Agrawal</span> 👋</h1>
+<h1 align="center">
+  Hi there, I'm <span style="color:#1bb7a6;">Trushna Agrawal</span> 👋
+</h1>
 
 <p align="center">
-  <b>Java Full Stack Developer · DSA & Backend Enthusiast · 2026 Grad</b>
-  <br>
+  <b>Java Full Stack Developer · DSA & Backend Enthusiast · 2026 Grad</b><br>
   <i>Invent &bull; Code &bull; Repeat</i>
 </p>
 
