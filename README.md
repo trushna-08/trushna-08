@@ -76,25 +76,11 @@
 
 ## 🏆 Certifications
 
-<div align="center">
+- [**Introduction to SQL** — SimpliLearn SkillUp](https://www.simplilearn.com/skillup-certificates/your-certificate-url-here)  
+  <sub>Issued: 26th May 2026 • Certificate Code: 10270832</sub>
 
-<!-- Introduction to SQL Certificate -->
-<a href="https://cert-link-for-sql-here.com" target="_blank">
-  <img src="https://i.imgur.com/1ukCY2u.png" alt="SQL Certificate" width="360"/>
-</a>
-<br>
-<b>Introduction to SQL — SimpliLearn SkillUp</b><br>
-<sub>Issued: 26th May 2026 • Certificate Code: 10270832</sub>
-<br><br>
-
-<!-- Java (Basic) Certificate -->
-<a href="https://www.hackerrank.com/certificates/4976eddc8461" target="_blank">
-  <img src="https://i.imgur.com/fxYI4hk.png" alt="HackerRank Java Basic" width="360"/>
-</a>
-<br>
-<b>Java (Basic) — HackerRank</b><br>
-<sub>Certificate of Accomplishment</sub>
-</div>
+- [**Java (Basic)** — HackerRank](https://www.hackerrank.com/certificates/4976eddc8461)  
+  <sub>Certificate of Accomplishment</sub>
 
 ---
 
